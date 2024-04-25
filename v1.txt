@@ -1,0 +1,2 @@
+Version 1.0.1 - Basic Functionalities
+Version 1.0.2 - Additional Functionalities
