@@ -1,0 +1,4 @@
+
+Bug Report:
+
+1. Division by zero error - Version 1.0.3

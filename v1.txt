@@ -1,3 +1,5 @@
 Version 1.0.1 - Basic Functionalities
 Version 1.0.2 - Additional Functionalities
 version 1.0.3 - Calculus - Integration, Differentiation and Logarithm
+
+Version 1.1.0 - Error fixed
